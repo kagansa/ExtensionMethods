@@ -1,0 +1,13 @@
+C:\Users\KAAN\source\repos\bootcamp\VatExtensionExample\bin\Debug\netcoreapp3.1\VatExtensionExample.exe
+C:\Users\KAAN\source\repos\bootcamp\VatExtensionExample\bin\Debug\netcoreapp3.1\VatExtensionExample.deps.json
+C:\Users\KAAN\source\repos\bootcamp\VatExtensionExample\bin\Debug\netcoreapp3.1\VatExtensionExample.runtimeconfig.json
+C:\Users\KAAN\source\repos\bootcamp\VatExtensionExample\bin\Debug\netcoreapp3.1\VatExtensionExample.runtimeconfig.dev.json
+C:\Users\KAAN\source\repos\bootcamp\VatExtensionExample\bin\Debug\netcoreapp3.1\VatExtensionExample.dll
+C:\Users\KAAN\source\repos\bootcamp\VatExtensionExample\bin\Debug\netcoreapp3.1\VatExtensionExample.pdb
+C:\Users\KAAN\source\repos\bootcamp\VatExtensionExample\obj\Debug\netcoreapp3.1\VatExtensionExample.csprojAssemblyReference.cache
+C:\Users\KAAN\source\repos\bootcamp\VatExtensionExample\obj\Debug\netcoreapp3.1\VatExtensionExample.AssemblyInfoInputs.cache
+C:\Users\KAAN\source\repos\bootcamp\VatExtensionExample\obj\Debug\netcoreapp3.1\VatExtensionExample.AssemblyInfo.cs
+C:\Users\KAAN\source\repos\bootcamp\VatExtensionExample\obj\Debug\netcoreapp3.1\VatExtensionExample.csproj.CoreCompileInputs.cache
+C:\Users\KAAN\source\repos\bootcamp\VatExtensionExample\obj\Debug\netcoreapp3.1\VatExtensionExample.dll
+C:\Users\KAAN\source\repos\bootcamp\VatExtensionExample\obj\Debug\netcoreapp3.1\VatExtensionExample.pdb
+C:\Users\KAAN\source\repos\bootcamp\VatExtensionExample\obj\Debug\netcoreapp3.1\VatExtensionExample.genruntimeconfig.cache
